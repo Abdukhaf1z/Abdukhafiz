@@ -1,0 +1,36 @@
+@media (max-width: 1200px) {
+    .container{
+        width: 900px;   
+    }
+
+ }
+ @media (max-width: 992px) {
+    .container{
+        width: 700px;
+    }
+    .first_center a{
+        display: none;
+    }
+    .discover h2{
+        font-size: 35px;
+    }
+.hotels_head{
+    display: grid;
+    justify-content: center;
+    margin: 30px;
+}
+.container1{
+    display: none;
+}
+.trip2{
+    display: grid;
+    gap: 40px;
+}
+.rims_all{
+    display: grid;
+    justify-content: center;
+}
+.footer{
+    display: none;
+}
+ }
